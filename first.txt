@@ -1,1 +1,2 @@
-my name isAmarpatil
+my name isAmarpatil.
+iam software enginer . learning git commits
